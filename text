@@ -1,0 +1,36 @@
+larasail pass
+
+                     LaraSail
+                         _
+                     __ )_)__
+                     )_))_))_)
+                     _!__!__!_
+                     \_______/
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+--------------------------------------------------
+| LaraSail User Password:
+| vFCLuLLaFKNyTf76RJDN6+Eh9NJ7bNtnXHNdF+KKX/Q=
+--------------------------------------------------
+
+
+                     LaraSail
+                         _
+                     __ )_)__
+                     )_))_))_)
+                     _!__!__!_
+                     \_______/
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+--------------------------------------------------
+| MySQL Password:
+| EqEFBuTW7CMNpTPmk1OBcx6env9AL+xU2ZGWgC0UHCI=
+--------------------------------------------------
+
+larasail@ubuntu-s-1vcpu-2gb-blr1-01:/var/www/cab$ php artisan passport:install --force
+
+Encryption keys generated successfully.
+Personal access client created successfully.
+Client ID: 1
+Client secret: 9N1PmygYwvzO2kUGxAMAVkGxx0ai6ExFVUdDLbcM
+Password grant client created successfully.
+Client ID: 2
+Client secret: dI32sDk58pAYacHJHuz8LZTfCbHuyu7QDRvJRvPc
